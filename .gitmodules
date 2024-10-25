@@ -1,0 +1,3 @@
+[submodule "TestProject"]
+	path = TestProject
+	url = git@github.com:Nynko/TestProject.git
